@@ -17,9 +17,15 @@ getAllArtCoursesForReceivingInstitution(yearTakingClass, communityCollegeList, d
                                             "CSUS": ["Political Science, BA", "History, BA"],
                                             "CPSLO": ["POLITICAL SCIENCE, B.A.", "HISTORY, B.A."]},
                                             "articulationsFromSI.csv")
+                                            
+### Output
+![image](https://github.com/user-attachments/assets/a86f3c55-845f-4923-8224-835eec67f9b7)
+
+                                            
     ap.getAllArtCoursesForReceivingInstitution(2024,
                                             ["SJCC", "WVC", "MISSION", "DAC", "EVERGRN", "FOOTHILL"],
                                             "UCLA",
                                             ["Biology/B.S.", "Neuroscience/B.S."],
                                             "articulationsForRI.csv")
-Output
+### Output
+![image](https://github.com/user-attachments/assets/632d3824-8bca-452d-9061-be6fde845d7b)
